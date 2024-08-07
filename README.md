@@ -1,7 +1,3 @@
-Here's a sample README for your weather forecasting app:
-
----
-
 # Weather Forecasting App
 
 This Weather Forecasting App is a simple web application that allows users to get the weather forecast for a specified city using the OpenWeatherMap API. The app displays the weather data, including date, temperature, description, and an icon representing the weather conditions.
